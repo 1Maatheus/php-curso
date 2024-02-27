@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/style.css">
     <title>Curso PHP</title>
   </head>
   <body>
@@ -18,7 +18,7 @@
             <h3>Módulo 01</h3>
             <ul>
               <li>
-                <a href="#">Exercício A</a>
+                <a href="exercicio.php">Exercício A</a>
               </li>
               <li>
                 <a href="#">Exercício B</a>
@@ -143,6 +143,8 @@
         </nav>
       </div>
     </main>
-    <footer class="footer">MATHEUS DEV &copy 2024</footer>
+    <footer class="footer">
+      MATHEUS DEV &copy <?= date('Y'); ?>
+    </footer>
   </body>
 </html>
