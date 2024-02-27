@@ -14,7 +14,7 @@
     </header>
     
     <nav class="nav">
-      <a href="#" class="verde">Sem formatação</a>
+      <a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
       <a href="index.php" class="vermelho">Voltar</a>
     </nav>
 
