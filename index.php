@@ -45,6 +45,9 @@
                 <li>
                   <a href="exercicio.php?dir=array&file=get" >Método GET</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=array&file=post" >Método POST</a>
+                </li>
               </ul>
           </div>
 
