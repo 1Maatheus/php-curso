@@ -30,6 +30,15 @@
                 <li>
                   <a href="exercicio.php?dir=array&file=desafio_meses" >Desafio Meses</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=array&file=operacoes" >Operações Array</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=array&file=desafio_sorteio" >Desafio Sorteio</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=array&file=multi" >Arrays Multidimensionais</a>
+                </li>
               </ul>
           </div>
 
