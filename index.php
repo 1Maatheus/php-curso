@@ -39,6 +39,12 @@
                 <li>
                   <a href="exercicio.php?dir=array&file=multi" >Arrays Multidimensionais</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=array&file=constantes" >Arrays Constantes</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=array&file=get" >Método GET</a>
+                </li>
               </ul>
           </div>
 
