@@ -42,6 +42,9 @@
                 <li>
                   <a href="exercicio.php?dir=repeticoes&file=desafio_tabela" >Desafio Tabela</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=repeticoes&file=desafio_requisicao" >Desafio Requisição</a>
+                </li>
               </ul>
           </div>
 
