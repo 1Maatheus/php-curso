@@ -24,6 +24,18 @@
                 <li>
                   <a href="exercicio.php?dir=repeticoes&file=desafio_for" >Desafio FOR</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=repeticoes&file=for_each" >For Each</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=repeticoes&file=break_continue" >Break and Continue</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=repeticoes&file=break_continue" >Break and Continue</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=repeticoes&file=desafio_impressao" >Desafio Impressão</a>
+                </li>
               </ul>
           </div>
 
