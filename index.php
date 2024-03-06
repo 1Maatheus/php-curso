@@ -15,6 +15,15 @@
       <div class="conteudo">
         <nav class="modulos">
 
+          <div class="modulo verde-escuro">
+              <h3>5. Array</h3>
+              <ul>
+                <li>
+                  <a href="exercicio.php?dir=repeticoes&file=for" >Repetição FOR</a>
+                </li>
+              </ul>
+          </div>
+
           <div class="modulo laranja">
               <h3>5. Array</h3>
               <ul>
