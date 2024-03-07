@@ -15,8 +15,17 @@
       <div class="conteudo">
         <nav class="modulos">
 
+          <div class="modulo vermelho-escuro">
+              <h3>7. Array</h3>
+              <ul>
+                <li>
+                  <a href="exercicio.php?dir=funcoes&file=escopo" >Escopo</a>
+                </li>
+              </ul>
+          </div>
+
           <div class="modulo verde-escuro">
-              <h3>5. Array</h3>
+              <h3>6. Array</h3>
               <ul>
                 <li>
                   <a href="exercicio.php?dir=repeticoes&file=for" >Repetição FOR</a>
