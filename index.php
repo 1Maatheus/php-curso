@@ -39,6 +39,9 @@
                 <li>
                   <a href="exercicio.php?dir=funcoes&file=anonimas" >Frunções Anônimas</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=funcoes&file=closure_callable" >Closure e Callables</a>
+                </li>
               </ul>
           </div>
 
