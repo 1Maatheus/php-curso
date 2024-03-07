@@ -33,6 +33,12 @@
                 <li>
                   <a href="exercicio.php?dir=funcoes&file=arg_padrao" >Argumento Padrão</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=funcoes&file=tipos" >Tipos</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=funcoes&file=anonimas" >Frunções Anônimas</a>
+                </li>
               </ul>
           </div>
 
