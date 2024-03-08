@@ -21,6 +21,12 @@
                 <li>
                   <a href="exercicio.php?dir=classes_objetos&file=classe" >Classe</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=classes_objetos&file=desafio_classe" >Desafio Classe</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor" >Construtor e Destrutor</a>
+                </li>
               </ul>
           </div>
 
