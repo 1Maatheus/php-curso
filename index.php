@@ -15,6 +15,16 @@
       <div class="conteudo">
         <nav class="modulos">
 
+          <div class="modulo azul-escuro">
+              <h3>8. Classes e Objetos</h3>
+              <ul>
+                <li>
+                  <a href="exercicio.php?dir=classes_objetos&file=classe" >Classe</a>
+                </li>
+              </ul>
+          </div>
+
+
           <div class="modulo vermelho-escuro">
               <h3>7. Array</h3>
               <ul>

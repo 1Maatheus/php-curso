@@ -31,5 +31,5 @@ function aprovados($notas) {
 }
 
 echo '<br>';
-$apenasAprovados2 = array_filter($notas, aprovados);
+// $apenasAprovados2 = array_filter($notas, aprovados);
 print_r($apenasAprovados2);
