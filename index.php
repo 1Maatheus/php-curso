@@ -21,6 +21,18 @@
                 <li>
                   <a href="exercicio.php?dir=includes&file=include" >Include</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=includes&file=include_funcao" >Include Função</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=includes&file=include_require" >Include vs Require</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=includes&file=require_return" >Return Require</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=includes&file=include_once" > Include Once</a>
+                </li>
               </ul>
           </div>
 
