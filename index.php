@@ -24,6 +24,9 @@
                 <li>
                   <a href="exercicio.php?dir=tratamento_erros&file=erros_personalizados" >Erros personalizados</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=tratamento_erros&file=desafio_intdiv" >Desafio de módulo</a>
+                </li>
               </ul>
           </div>
 
