@@ -21,6 +21,9 @@
                 <li>
                   <a href="exercicio.php?dir=tratamento_erros&file=try_catch" >Tratamento de erros</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=tratamento_erros&file=erros_personalizados" >Erros personalizados</a>
+                </li>
               </ul>
           </div>
 
