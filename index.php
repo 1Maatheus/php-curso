@@ -27,6 +27,9 @@
                 <li>
                   <a href="exercicio.php?dir=tratamento_erros&file=desafio_intdiv" >Desafio de módulo</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=tratamento_erros&file=gerenciador_erro" >Error Handler</a>
+                </li>
               </ul>
           </div>
 
