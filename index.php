@@ -15,6 +15,15 @@
       <div class="conteudo">
         <nav class="modulos">
 
+          <div class="modulo laranja-escuro">
+              <h3>10. Namespace</h3>
+              <ul>
+                <li>
+                  <a href="exercicio.php?dir=namespace&file=basico" >Namespace</a>
+                </li>
+              </ul>
+          </div>
+
           <div class="modulo roxo-escuro">
               <h3>9. Includes</h3>
               <ul>
