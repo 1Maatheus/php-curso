@@ -21,6 +21,9 @@
                 <li>
                   <a href="exercicio.php?dir=namespace&file=basico" >Namespace</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=namespace&file=sub_namespaces" >Sub Namespaces</a>
+                </li>
               </ul>
           </div>
 
