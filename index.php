@@ -34,6 +34,15 @@ if(!$_SESSION['usuario']){
       <div class="conteudo">
         <nav class="modulos">
 
+          <div class="modulo roxo">
+              <h3>14. Formulário</h3>
+              <ul>
+                <li>
+                  <a href="exercicio.php?dir=formulario&file=formulario" >Formulário</a>
+                </li>
+              </ul>
+          </div>
+
           <div class="modulo azul">
               <h3>13. Datas</h3>
               <ul>
