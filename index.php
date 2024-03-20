@@ -34,6 +34,15 @@ if(!$_SESSION['usuario']){
       <div class="conteudo">
         <nav class="modulos">
 
+          <div class="modulo azul">
+              <h3>13. Datas</h3>
+              <ul>
+                <li>
+                  <a href="exercicio.php?dir=api&file=datas_01" >Datas</a>
+                </li>
+              </ul>
+          </div>
+
           <div class="modulo vermelho">
               <h3>12. Tratamento de erro</h3>
               <ul>
