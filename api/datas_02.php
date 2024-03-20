@@ -15,3 +15,7 @@ setLocale(LC_TIME, 'pt_BR');
 
 $amanha = new DateTime('+1 day');
 echo date($formatoData2, $amanha -> getTimestamp()) . '<br>';
+
+$tz = new DateTimeZone('America/Sao_Paulo');
+// $agora = new DateTime(null, $tz);
+echo $agora->format($formatoDataHora) . '<br>';
