@@ -55,6 +55,9 @@ if(!$_SESSION['usuario']){
                 <li>
                   <a href="exercicio.php?dir=api&file=download" >Download</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=api&file=imagens" >Imagens</a>
+                </li>
               </ul>
           </div>
 
