@@ -40,6 +40,9 @@ if(!$_SESSION['usuario']){
                 <li>
                   <a href="exercicio.php?dir=api&file=datas_01" >Datas</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=api&file=datas_02" >Datas 02</a>
+                </li>
               </ul>
           </div>
 
