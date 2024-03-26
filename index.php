@@ -34,14 +34,15 @@ if(!$_SESSION['usuario']){
       <div class="conteudo">
         <nav class="modulos">
 
-          <div class="modulo roxo">
-              <h3>14. Formulário</h3>
+          <div class="modulo laranja">
+              <h3>15. Banco de Dados</h3>
               <ul>
                 <li>
-                  <a href="exercicio.php?dir=formulario&file=formulario" >Formulário</a>
+                  <a href="exercicio.php?dir=db&file=criar_banco" >Banco de Dados</a>
                 </li>
               </ul>
           </div>
+
 
           <div class="modulo azul">
               <h3>13. Datas</h3>
