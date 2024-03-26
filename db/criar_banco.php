@@ -14,3 +14,5 @@ if($resultado) {
 } else {
   echo "Erro : " . $conexao->error;
 }
+
+$conexao->close();

@@ -40,6 +40,9 @@ if(!$_SESSION['usuario']){
                 <li>
                   <a href="exercicio.php?dir=db&file=criar_banco" >Banco de Dados</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=criar_tabela" >Criar Tabela</a>
+                </li>
               </ul>
           </div>
 
