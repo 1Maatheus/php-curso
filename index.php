@@ -49,6 +49,9 @@ if(!$_SESSION['usuario']){
                 <li>
                   <a href="exercicio.php?dir=db&file=consultar" >Consultando Dados PHP</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=excluir_1" >Excluindo Registro 01</a>
+                </li>
               </ul>
           </div>
 
