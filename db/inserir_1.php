@@ -6,10 +6,10 @@ require_once "conexao.php";
 
 $sql = "INSERT INTO cadastro (nome, nascimento, email, site, filhos, salario)
 VALUES (
-  'Matheus',
-  '1998-05-06',
-  'matheus@gmail.com',
-  'https://matheus.sites.com.br',
+  'Otavio',
+  '2001-06-12',
+  'otavio@gmail.com',
+  'https://otavio.sites.com.br',
   0,
   3000
 )";

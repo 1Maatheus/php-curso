@@ -47,9 +47,6 @@ if(!$_SESSION['usuario']){
                   <a href="exercicio.php?dir=db&file=inserir_1" >Inserir Registro</a>
                 </li>
                 <li>
-                  <a href="exercicio.php?dir=db&file=inserir_1" >Inserir Registro</a>
-                </li>
-                <li>
                   <a href="exercicio.php?dir=db&file=consultar" >Consultando Dados PHP</a>
                 </li>
               </ul>
