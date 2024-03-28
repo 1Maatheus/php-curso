@@ -43,6 +43,15 @@ if(!$_SESSION['usuario']){
                 <li>
                   <a href="exercicio.php?dir=db&file=criar_tabela" >Criar Tabela</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=inserir_1" >Inserir Registro</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=inserir_1" >Inserir Registro</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=consultar" >Consultando Dados PHP</a>
+                </li>
               </ul>
           </div>
 
