@@ -64,6 +64,15 @@ if(!$_SESSION['usuario']){
                 <li>
                   <a href="exercicio.php?dir=db&file=inserir_pdo" >Inserir dados com PDO</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=consultar_pdo" >Consultar dados com PDO</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=alterar_pdo" >Alterar dados com PDO</a>
+                </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=excluir_pdo" >Excluir dados com PDO</a>
+                </li>
               </ul>
           </div>
 
