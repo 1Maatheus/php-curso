@@ -55,6 +55,9 @@ if(!$_SESSION['usuario']){
                 <li>
                   <a href="exercicio.php?dir=db&file=excluir_2" >Excluindo Registro 02</a>
                 </li>
+                <li>
+                  <a href="exercicio.php?dir=db&file=inserir_2" >Inserir Registro 02</a>
+                </li>
               </ul>
           </div>
 
